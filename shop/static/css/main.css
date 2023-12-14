@@ -1,0 +1,11 @@
+.shop-header {
+    background-image: url("https://forums.terraria.org/index.php?attachments/img_0960-gif.430084/");
+    background-repeat: repeat;
+    background-size: cover;
+    height: 700px;
+    color: white; 
+}
+
+.shop-stats {
+    color: white; 
+}

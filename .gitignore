@@ -1,0 +1,5 @@
+cap_stone
+.env
+migrations
+__pycache__
+image_cache.sqlite
